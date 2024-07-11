@@ -26,6 +26,6 @@ streamlit run 1_🎵_Homepage.py
 ```
 This will automatically take you to your browser `http://localhost:8501`
 ## Members of the Project
-### Gabriella Kipchumba- CS/MG/1991/09/21<br>
-### Linda Chepkemoi Sigei- CS/M/0945/05/22<br>
-### Gascoigne Macharia- CS/M/0658/05/22<br>
+Gabriella Kipchumba- CS/MG/1991/09/21<br>
+Linda Chepkemoi Sigei- CS/M/0945/05/22<br>
+Gascoigne Macharia- CS/M/0658/05/22<br>
