@@ -1,4 +1,4 @@
-# Moodwave:  Your AI-powered Music Recommender Systemr
+# Moodwave:  Your AI-powered Music Recommender System
 
 Moodwave is an innovative music recommender system that personalizes your music experience by leveraging the power of Artificial Intelligence (AI).  It seamlessly integrates with Spotify to create the perfect soundtrack for your mood.
 
@@ -6,9 +6,9 @@ Moodwave is an innovative music recommender system that personalizes your music 
 Moodwave utilizes computer vision, specifically focusing on face emotion detection, to analyze your facial expressions and infer your emotional state. Based on your perceived emotions, Moodwave recommends music tailored to your mood from your Spotify library.
 
 ## **Key Features:**
-***Emotional Intelligence:*** Moodwave goes beyond traditional music recommendations by considering your emotional state.<br>
-***Personalized Playlists:*** Get music suggestions that match your current mood, creating a more immersive listening experience.<br>
-***Spotify Integration:*** Moodwave seamlessly connects with your Spotify account for a smooth and familiar experience.
+~***Emotional Intelligence:*** Moodwave goes beyond traditional music recommendations by considering your emotional state.<br>
+~***Personalized Playlists:*** Get music suggestions that match your current mood, creating a more immersive listening experience.<br>
+~***Spotify Integration:*** Moodwave seamlessly connects with your Spotify account for a smooth and familiar experience.
 
 ## **Getting started**
 ### 1.Clone Repository:<br>
