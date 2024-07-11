@@ -108,7 +108,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
-background-image: url("https://img.freepik.com/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-28421.jpg?t=st=1720085376~exp=1720088976~hmac=4b9c1c6f726d2dcc63ea4ec5b5d3433983b32722db452de89177d8688e97f9a2&w=740");
+background-image: url("https://i.pinimg.com/564x/90/c6/56/90c6568166b1572946310f699335ba2e.jpg");
 }
 
 [data-testid="stHeader"] {
