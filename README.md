@@ -12,8 +12,15 @@ Moodwave utilizes computer vision, specifically focusing on face emotion detecti
 
 ## **Getting started**
 ###1.Clone Repository:<br>
-```https://github.com/GabbyCK/Moodwave.git```<br>
+```bash
+git clone https://github.com/GabbyCK/Moodwave.git
+```<br>
 ###2.Install the required dependencies using `pip`<br>
-```pip install -r requirements.txt```<br>
+```bash
+pip install -r requirements.txt
+```<br>
 ###3.Run the Streamlit app:<br>
-```streamlit run 1_🎵_Homepage.py```<br>
+```bash
+streamlit run 1_🎵_Homepage.py
+```<br>
+This will automatically take you to your browser `http://localhost:8501`
