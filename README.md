@@ -6,12 +6,14 @@ Moodwave is an innovative music recommender system that personalizes your music 
 Moodwave utilizes computer vision, specifically focusing on face emotion detection, to analyze your facial expressions and infer your emotional state. Based on your perceived emotions, Moodwave recommends music tailored to your mood from your Spotify library.
 
 ## **Key Features:**
-***Emotional Intelligence:*** Moodwave goes beyond traditional music recommendations by considering your emotional state.
-***Personalized Playlists:*** Get music suggestions that match your current mood, creating a more immersive listening experience.
+***Emotional Intelligence:*** Moodwave goes beyond traditional music recommendations by considering your emotional state.<br>
+***Personalized Playlists:*** Get music suggestions that match your current mood, creating a more immersive listening experience.<br>
 ***Spotify Integration:*** Moodwave seamlessly connects with your Spotify account for a smooth and familiar experience.
 
 ## **Getting started**
-###1.Clone Repository:
-`https://github.com/GabbyCK/Moodwave.git`
-###2.Install the required dependencies using `pip`
-###3.Run the Streamlit app:
+###1.Clone Repository:<br>
+```https://github.com/GabbyCK/Moodwave.git```<br>
+###2.Install the required dependencies using `pip`<br>
+```pip install -r requirements.txt```<br>
+###3.Run the Streamlit app:<br>
+```streamlit run 1_🎵_Homepage.py```<br>
