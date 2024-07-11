@@ -1,4 +1,4 @@
-#**Moodwave:  Your AI-powered Music Mood Reader**
+# **Moodwave:  Your AI-powered Music Mood Reader**
 
 Moodwave is an innovative music recommender system that personalizes your music experience by leveraging the power of Artificial Intelligence (AI).  It seamlessly integrates with Spotify to create the perfect soundtrack for your mood.
 
