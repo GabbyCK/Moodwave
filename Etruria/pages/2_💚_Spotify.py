@@ -126,8 +126,8 @@ else:
 col1, col2 = st.columns(2)
 
 with col1:
-    hindi = st.button("Hindi")
-    if hindi:
+    Gospel = st.button("Gospel")
+    if Gospel:
         if st.session_state["emotion"] == "Happy":
             components.html(
             """<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWTwbZHrJRIgD?utm_source=generator&theme=0" width="100%" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; fullscreen; picture-in-picture" loading="lazy"></iframe>
